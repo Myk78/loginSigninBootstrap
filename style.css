@@ -2,10 +2,10 @@
   background-color: black;
 } */
 .org {
-  background-color: orange;
+  border: 5px solid rgb(230, 144, 241);
 }
 .red {
-  border: 10px solid red;
+  border: 6px solid red;
 }
 .blu {
   border: 5px solid blue;
